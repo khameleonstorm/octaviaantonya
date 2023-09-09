@@ -16,6 +16,6 @@ export const servicesHero = {
 
 export const aboutHero = {
   title: <h1>About Me!</h1>,
-  subtitle: <h2>I'm here to help you unlock your inherent potential. Success doesn't just come from external factors; it emerges from within you.</h2>,
+  subtitle: <h2>I&apos;m here to help you unlock your inherent potential. Success doesn&apos;t just come from external factors; it emerges from within you.</h2>,
   image: natalie5
 }
