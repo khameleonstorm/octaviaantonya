@@ -4,8 +4,8 @@ const nextConfig = {
     appDir: true,
   },
   env: {
-    SMTP_USER: 'help@natalieshaekrula.com',
-    SMTP_PASSWORD: '3099545689'
+    SMTP_USER: 'help@octaviaantonyacephas.com',
+    SMTP_PASSWORD: 'octavia'
   },
   images: {
     domains: ['robohash.org'],

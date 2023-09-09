@@ -1,0 +1,20 @@
+<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.octaviaantonyacephas.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Foctavia-antonya-cephas-1.fa2eb39e.jpg&amp;w=640&amp;q=75</loc>
+    <image:image>
+      <image:loc>https://www.octaviaantonyacephas.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Foctavia-antonya-cephas-1.fa2eb39e.jpg&amp;w=640&amp;q=75</image:loc>
+      <image:title>octavia antonya cephas</image:title>
+      <image:caption>This is my portfolio</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://www.octaviaantonyacephas.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Foctavia-antonya-cephas-3.a930df00.jpg&amp;w=640&amp;q=75</loc>
+    <image:image>
+      <image:loc>https://www.octaviaantonyacephas.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Foctavia-antonya-cephas-3.a930df00.jpg&amp;w=640&amp;q=75</image:loc>
+      <image:title>octavia antonya cephas</image:title>
+      <image:caption>This is my portfolio, explore my professional services.</image:caption>
+    </image:image>
+  </url>
+</urlset>
+

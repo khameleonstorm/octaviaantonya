@@ -14,12 +14,12 @@ export const metadata = {
     siteName: 'Octavia Antonya Cephas Portfolio',
     images: [
       {
-        url: 'https://bit.ly/3sz2dcI',
+        url: 'https://bit.ly/3RmMhV8',
         width: 800,
         height: 600,
       },
       {
-        url: 'https://bit.ly/3sz2dcI',
+        url: 'https://bit.ly/3RmMhV8',
         width: 1800,
         height: 1600,
         alt: 'Octavia Antonya Cephas',
@@ -55,7 +55,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <Script src="//code.tidio.co/akd8slvodjmmi8m4mrk3xo65vks3u8tt.js" async />
+      <Script src="//code.tidio.co/evk8po3aooesrvx8uuzklv4lpyuwcudr.js" async />
       <body>
         <Navbar />
         {children}

@@ -149,7 +149,7 @@ export async function POST(req: NextRequest) {
               <table width="600" cellspacing="0" cellpadding="0">
                 <tr>
                   <td class="header">
-                    <img class="logo" src="https://natalieshaekrula.vercel.app/_next/static/media/logo.11ed970f.svg" alt="Octavia Antonya Cephas Logo">
+                    <img class="logo" src="https://octaviaantonya.vercel.app/_next/static/media/logo.b09b08bf.svg" alt="Octavia Antonya Cephas Logo">
                   </td>
                 </tr>
                 <tr>
@@ -164,7 +164,7 @@ export async function POST(req: NextRequest) {
                 </tr>
                 <tr>
                   <td class="footer">
-                    <img class="footer-logo" src="https://natalieshaekrula.vercel.app/_next/static/media/logo.11ed970f.svg" alt="Octavia Antonya Cephas Logo Logo">
+                    <img class="footer-logo" src="https://octaviaantonya.vercel.app/_next/static/media/logo.b09b08bf.svg" alt="Octavia Antonya Cephas Logo Logo">
                     <p class="footer-message">© 2022 Octavia Antonya Cephas | All Rights Reserved</p>
                   </td>
                 </tr>
