@@ -65,7 +65,7 @@ export async function POST(req: NextRequest) {
 
     const mailData = {
       from: `${process.env.SMTP_USER}`,
-      to: `khameleonstorm@gmail.com`,
+      to: `${process.env.SMTP_USER}`,
       subject: 'Contact Message!',
       html: `
       <!DOCTYPE html>
